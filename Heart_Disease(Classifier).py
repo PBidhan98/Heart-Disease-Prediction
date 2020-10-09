@@ -50,3 +50,18 @@ classifier.fit(X, y)
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
 
+
+
+
+
+
+
+
+# from sklearn.svm import SVC
+# classifier = SVC(kernel = 'rbf', random_state = 0)
+# classifier.fit(X, y)
+#classifier.fit(X_train, y_train)
+
+
+# Predicting the Test set results
+# y_pred = classifier.predict(X_test)
